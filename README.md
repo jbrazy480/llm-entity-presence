@@ -116,6 +116,15 @@ This skill does not promise magic. It promises the real process, done properly.
 - `references/google-search-console-checklist.md`: verify, submit, request
   indexing.
 
+## Part of a set
+
+Free skills by The AI Guy that work together as one revenue system. Full catalog: **[ai-guy-skills](https://github.com/jbrazy480/ai-guy-skills)**.
+
+- **llm-entity-presence** (this repo): get recognized by ChatGPT, Perplexity, and AI Overviews.
+- **[review-reputation-engine](https://github.com/jbrazy480/review-reputation-engine)**: more reviews, more inbound.
+- **[speed-to-lead-engine](https://github.com/jbrazy480/speed-to-lead-engine)**: the instant-response and follow-up cadence.
+- **[ai-voice-agent-prompts](https://github.com/jbrazy480/ai-voice-agent-prompts)**: the AI call that books and qualifies.
+
 ## Who made this
 
 **James Hill, The AI Guy**, founder of RizzDial. More at
